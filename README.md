@@ -15,7 +15,7 @@ TypeScript · React · Node.js · PostgreSQL · Prisma · Docker · Java · C# �
 | [Game Reviewer+](https://github.com/PantocaPipoca/Game-Reviewer) | Full stack game review platform with social features | TS, React, Node, Postgres |
 | [DeckBuilder](https://github.com/PantocaPipoca/DeckBuilder) | Web app for building and sharing Clash Royale decks | TS, React, Node, Postgres |
 | [Java Game Engine](https://github.com/PantocaPipoca/javaGameEngine) | 2D game engine built from scratch collisions, AI, animations | Java |
-| [Veterinary Clinic DB](https://github.com/PantocaPipoca/Veterinary-Clinic-DB) | Fully functional relational DB with triggers, procedures and views | PL/pgSQL |
+| [Veterinary Clinic DB](https://github.com/PantocaPipoca/Veterinary-Clinic-DB) | Fully functional relational DB with triggers, procedures and views | Postgres |
 | [Java B-Tree](https://github.com/PantocaPipoca/Java-Btree) | Generic B-Tree with rank, select, floor, ceiling + custom QuickSort | Java |
 | [Sudoku Solver](https://github.com/PantocaPipoca/Sudoku-Solver-In-Java) | CLI Sudoku solver using iterative backtracking with a custom generic stack | Java |
 
